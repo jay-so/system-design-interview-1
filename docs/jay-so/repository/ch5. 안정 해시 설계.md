@@ -305,3 +305,5 @@ https://binux.tistory.com/119
 - 아마카이 CDN
 - 매그레프 네트워크 부하 분산기
 
++) 참고자료
+https://loosie.tistory.com/820
